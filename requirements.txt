@@ -1,0 +1,8 @@
+jupyter
+numpy
+pandas
+matplotlib
+scikit-learn
+darts
+u8darts[torch]
+ipykernel
