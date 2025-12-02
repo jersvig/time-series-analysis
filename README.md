@@ -1,5 +1,3 @@
-# time-series-analysis
-
 ## Navodila za nastavitev okolja
 
 ### Priprava Python virtualnega okolja
