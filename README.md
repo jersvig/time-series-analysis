@@ -28,3 +28,9 @@ Ko končate z delom, deaktivirajte virtualno okolje:
 ```bash
 deactivate
 ```
+
+### Debian odvisnost
+
+```bash
+sudo apt-get install libopenblas-dev
+```

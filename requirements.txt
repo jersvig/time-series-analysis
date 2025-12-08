@@ -6,3 +6,5 @@ scikit-learn
 darts
 u8darts[torch]
 ipykernel
+statsforecast
+xgboost
